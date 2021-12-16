@@ -1,0 +1,9 @@
+1) Program 2 has been created in simple text file saved as html file. The html file contains html code and JQuery code.
+The call to rest APIs has been made using $.ajax().
+
+2) Click on Program 2.html file and open it in any browser.
+
+3) Enter the rest API Url in "Enter Url" textbox e.g. https://reqres.in/api/users/1.
+
+4) After entering API Url, click on "Click Here to Get Email" button, the email is displayed below
+"Enter Url" textbox and above the button.

@@ -1,0 +1,9 @@
+1) Program 1 has been created using .Net Console Application in Visual Studio 2019.
+
+2) Open solution in Visual Studio, build solution and then run it.
+
+3) Enter "str1" after the prompt "Please enter string 1".
+
+4) Enter "str2" after the prompt "Please enter string 2".
+
+5) After entering "str2", press "Enter" key on keyboard. The results "op1" and "op2" are displayed.
